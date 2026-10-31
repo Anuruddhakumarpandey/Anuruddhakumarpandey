@@ -1,4 +1,5 @@
-![logo](https://github.com/Anuruddhakumarpandey/Anuruddhakumarpandey/blob/main/anuruddha-banner.png)
+![logo](https://github.com/Anuruddhakumarpandey/Anuruddhakumarpandey/blob/main/anurudhha-banner.png)
+
 
 # 💫 Hi 👋, I'm Anuruddha Kumar Pandey
 **A passionate Full Stack Developer from India**
