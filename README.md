@@ -5,7 +5,7 @@
 **A passionate Full Stack Developer from India**
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj97988&label=Profile%20views&color=0e75b6&style=flat" alt="anuruddha_pic" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anurudhhakumarpandey&label=Profile%20views&color=0e75b6&style=flat" alt="anuruddha_pic" /> </p>
 
 
 Email Me 👉 ✉️ **anuruddhp233@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -32,7 +32,7 @@ Email Me 👉 ✉️ **anuruddhp233@gmail.com** For Collaboration/Project or Any
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anuruddhakumarpandey&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suraj__agarwal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-agarwal-086510234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajagarwalt@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuruddhpanday302) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuruddh-kumar-pandey-370a54353) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuruddhp233@gmail.com) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anuruddhakumarpandey&theme=radical&no-frame=false&no-bg=true&margin-w=4)
